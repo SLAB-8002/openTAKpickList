@@ -74,8 +74,10 @@ NON AVAILABLE PLUGINS
 ## Hardware
 
 ### GPS
+- Dual SkyPro XGPS160
 
 ### Range finders
+- TruPulse 200
 
 ### Radios
 
